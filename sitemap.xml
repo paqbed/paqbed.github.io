@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://paqfotel.hu/index.html</loc>
+    <lastmod>2017-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://paqfotel.hu/images/paq_white.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://paqfotel.hu/images/monessa-yatak-logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://paqfotel.hu/images/maform-logo_mono-htext.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://paqfotel.hu/assets/paq.webm</loc>
+    <lastmod>2017-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://paqfotel.hu/assets/paq.mp4</loc>
+    <lastmod>2017-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://paqfotel.hu/assets/icons-02.png</loc>
+    <lastmod>2017-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://paqfotel.hu/assets/icons-01.png</loc>
+    <lastmod>2017-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
