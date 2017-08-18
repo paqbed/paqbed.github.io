@@ -1,56 +1,76 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="paqfotel.hu" resolutions="1x" timestamp="1494594306988">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="paqfotel.hu" resolutions="1x,2x" timestamp="1501756872467">
   <folder name="css">
     <file name="site_global.css" crc="3945701520"/>
-    <file name="master_a-master.css" crc="3928382697" ref="index"/>
+    <file name="master_a-master.css" crc="395724561" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index"/>
-    <file name="index.css" crc="4021498149" ref="index"/>
-    <file name="nomq_index.css" crc="4105416552" ref="index"/>
+    <file name="index.css" crc="418168073" ref="index"/>
+    <file name="nomq_index.css" crc="157802010" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="latolatin-regular1.woff" crc="340957250"/>
+    <file name="latolatin-regular1.eot" crc="133684586"/>
   </folder>
   <folder name="assets">
-    <file name="paq.mp4" crc="4017597699" seo="true" mt="1494580021000"/>
-    <file name="paq.webm" crc="3895525349" seo="true" mt="1494580825000"/>
-    <file name="icons-01.png" crc="3773622063" seo="true" mt="1494594151000"/>
-    <file name="icons-02.png" crc="4133850377" seo="true" mt="1494594151000"/>
+    <file name="paq.mp4" crc="4017597699" seo="true" mt="1497340698000"/>
+    <file name="paq.webm" crc="3895525349" seo="true" mt="1497340739000"/>
+    <file name="icons-01.png" crc="3773622063" seo="true" mt="1497340651000"/>
+    <file name="icons-02.png" crc="4133850377" seo="true" mt="1497340653000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="4232573551" ref="index"/>
+    <file name="museutils.js" crc="4216313831" ref="index"/>
     <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="3849126041" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index"/>
-    <file name="jquery.watch.js" crc="3844535323" ref="index"/>
-    <file name="jquery.museresponsive.js" crc="433634197" ref="index"/>
-    <file name="require.js" crc="4234670167" ref="index"/>
+    <file name="museconfig.js" crc="4177022356" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="4055310269" ref="index"/>
+    <file name="require.js" crc="3951022091" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="thumb.jpg" crc="431908832" ref="index">
+    <file name="thumb-u670-fr.jpg" crc="59963947" ref="index"/>
+    <file name="paq_white.png" crc="533096661" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="paq_white.png" crc="3960726365" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="monessa-yatak-logo.png" crc="201620934" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="maform-logo_mono-htext.png" crc="3767900694" seo="true" ref="index">
+    <file name="paq_white_2x.png" crc="4241027310" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="thumb-u608-fr.jpg" crc="4024132522" ref="index"/>
-    <file name="thumb-u608-fr2.jpg" crc="374444904" ref="index"/>
+    <file name="monessa-yatak-logo.png" crc="4130964065" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="maform-logo_mono-htext.png" crc="390975964" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="maform-logo_mono-htext_2x.png" crc="4102598422" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="thumb-u670-fr2.jpg" crc="59443565" ref="index"/>
+    <file name="thumb-u608-fr.jpg" crc="3851517723" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="thumb-u670-fr.jpg" crc="344472590" ref="index"/>
   </folder>
-  <file name="index.html" crc="3948491734" seo="true" mt="1494594298686" redirect="true"/>
+  <file name="index.html" crc="3805447388" seo="true" mt="1501756796027" redirect="true"/>
 </manifest>
