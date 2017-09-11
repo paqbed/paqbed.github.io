@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://paqfotel.hu/index.html</loc>
-    <lastmod>2017-08-03</lastmod>
+    <lastmod>2017-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -12,6 +12,12 @@
       <image:loc>http://paqfotel.hu/images/paq_white_2x.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://paqfotel.hu/images/amazon_buynow.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://paqfotel.hu/images/amazon_buynow_2x.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://paqfotel.hu/images/monessa-yatak-logo.png</image:loc>
     </image:image>
     <image:image>
@@ -19,6 +25,30 @@
     </image:image>
     <image:image>
       <image:loc>http://paqfotel.hu/images/maform-logo_mono-htext_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://paqfotel.hu/images/amazon_buynow128x48.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://paqfotel.hu/images/amazon_buynow128x48_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://paqfotel.hu/images/amazon_buynow121x46.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://paqfotel.hu/images/amazon_buynow121x46_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://paqfotel.hu/images/amazon_buynow124x47.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://paqfotel.hu/images/amazon_buynow124x47_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://paqfotel.hu/images/amazon_buynow118x44.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://paqfotel.hu/images/amazon_buynow118x44_2x.png</image:loc>
     </image:image>
   </url>
   <url>
